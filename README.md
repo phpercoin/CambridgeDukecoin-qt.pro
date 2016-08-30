@@ -1,0 +1,1 @@
+# CambridgeDukecoin-qt.pro
